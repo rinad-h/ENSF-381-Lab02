@@ -1,0 +1,49 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+p{
+    font-family: Arial;
+    font-size: 16px;
+}
+
+.par{
+    color: #3d3d3d; 
+}
+
+.table2{
+    border-spacing: 0 20px;
+    width:100%;
+}
+
+.box1{
+    background-color: darkred;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+}
+
+.box2{
+    background-color: deeppink;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+}
+
+.box3{
+    background-color: brown;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+}
+
+.td_image_width{
+    display: block;
+    width: 570px;
+    height: 400px;
+}
+
